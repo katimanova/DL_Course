@@ -22,6 +22,8 @@ torchmetrics = "^1.6.1"
 tensorboard = "^2.18.0"
 tensorboardx = "^2.6.2.2"
 scikit-image = "^0.25.0"
+transforms = "^0.2.1"
+wandb = "^0.19.4"
 
 
 [tool.poetry.group.dev.dependencies]
