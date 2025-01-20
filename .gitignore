@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Игнорировать папку data_cifar
+data/data_cifar/
+
+# Игнорировать модели (если не нужно их отслеживать)
+logs/models/
+
+# Игнорировать виртуальное окружение
+.venv/
+
+
 # C extensions
 *.so
 
