@@ -19,6 +19,7 @@ logs/**/*.ckpt
 logs/**/*.pth
 logs/**/*.pt
 logs/**/*.log
+logs/
 
 
 
