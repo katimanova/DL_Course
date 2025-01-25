@@ -12,7 +12,6 @@ logs/models/
 
 # Виртуальные окружения
 .venv/
-gensim-env/
 
 # Логи и модели
 logs/**/*.ckpt
@@ -189,3 +188,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+logs/
