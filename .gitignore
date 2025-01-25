@@ -12,6 +12,7 @@ logs/models/
 
 # Игнорировать виртуальное окружение
 .venv/
+gensim-env
 
 
 # C extensions
