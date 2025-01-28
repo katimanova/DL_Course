@@ -4,10 +4,11 @@ version = "0.1.0"
 description = ""
 authors = ["Anastasia K. <nkaliman00@mail.ru>"]
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10"
-numpy = "1.24.0"
+numpy = "^1.26.0"
 pandas = "1.5.3"
 scikit-learn = "^1.6.0"
 torch = "^2.5.1"
@@ -27,6 +28,15 @@ nltk = "^3.9.1"
 gensim = "^4.3.3"
 transformers = "^4.48.1"
 poetry = "^2.0.1"
+datasets = "^3.2.0"
+evaluate = "^0.4.3"
+sentence-transformers = "^3.4.0"
+accelerate = ">=0.26.0"
+seaborn = "^0.13.2"
+emoji = "^2.14.1"
+langdetect = "^1.0.9"
+tensorflow = "^2.18.0"
+tf-keras = "^2.18.0"
 
 
 [tool.poetry.group.dev.dependencies]

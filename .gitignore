@@ -19,7 +19,7 @@ logs/**/*.pth
 logs/**/*.pt
 logs/**/*.log
 logs/
-
+logs/models
 
 
 # C extensions
